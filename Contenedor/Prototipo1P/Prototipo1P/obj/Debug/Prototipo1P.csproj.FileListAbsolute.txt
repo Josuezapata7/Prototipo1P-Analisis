@@ -1,0 +1,11 @@
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe.config
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.exe
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\bin\Debug\Prototipo1P.pdb
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.AssemblyReference.cache
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.frmCobros.resources
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.Properties.Resources.resources
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.GenerateResource.cache
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.csproj.CoreCompileInputs.cache
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.exe
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.pdb
+C:\Users\Langas\source\repos\Prototipo1P\Prototipo1P\obj\Debug\Prototipo1P.frmPagos.resources
